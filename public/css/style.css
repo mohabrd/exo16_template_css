@@ -1,0 +1,41 @@
+.blocs {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+}
+
+.bloc {
+    width: 25%;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.txt1 {
+    color: black;
+    text-align: center;
+
+}
+
+.btn1 {
+    background-color: rgb(162, 35, 162);
+    color: white;
+    border: 0;
+    height: 15%;
+    width: 35%;
+    box-shadow: 5px 10px 8px #888888;
+    padding: 0;
+    margin: 0;
+
+}
+
+.blocspe {
+    width: 25%;
+    text-align: center;
+    background-color: violet;
+    height: 400px;
+    width: 450px;
+    padding-top: 20px;
+
+}
